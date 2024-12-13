@@ -1,0 +1,13 @@
+C:\Users\unila\Documents\Microsoft Visual Studio\ClubRegistration\bin\Debug\ClubRegistration.exe.config
+C:\Users\unila\Documents\Microsoft Visual Studio\ClubRegistration\bin\Debug\ClubRegistration.exe
+C:\Users\unila\Documents\Microsoft Visual Studio\ClubRegistration\bin\Debug\ClubRegistration.pdb
+C:\Users\unila\Documents\Microsoft Visual Studio\ClubRegistration\obj\Debug\ClubRegistration.csproj.AssemblyReference.cache
+C:\Users\unila\Documents\Microsoft Visual Studio\ClubRegistration\obj\Debug\ClubRegistration.Properties.Resources.resources
+C:\Users\unila\Documents\Microsoft Visual Studio\ClubRegistration\obj\Debug\ClubRegistration.csproj.GenerateResource.cache
+C:\Users\unila\Documents\Microsoft Visual Studio\ClubRegistration\obj\Debug\ClubRegistration.csproj.CoreCompileInputs.cache
+C:\Users\unila\Documents\Microsoft Visual Studio\ClubRegistration\obj\Debug\ClubRegistration.exe
+C:\Users\unila\Documents\Microsoft Visual Studio\ClubRegistration\obj\Debug\ClubRegistration.pdb
+C:\Users\unila\Documents\Microsoft Visual Studio\ClubRegistration\obj\Debug\ClubRegistration.frmClubRegistration.resources
+C:\Users\unila\Documents\Microsoft Visual Studio\ClubRegistration\bin\Debug\ClubDB.mdf
+C:\Users\unila\Documents\Microsoft Visual Studio\ClubRegistration\bin\Debug\ClubDB_log.ldf
+C:\Users\unila\Documents\Microsoft Visual Studio\ClubRegistration\obj\Debug\ClubRegistration.frmUpdateMember.resources
